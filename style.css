@@ -32,8 +32,9 @@ header {
 }
 
 .gallery img {
-    width: 200px;
+    width: 400px;
     height: 500px;
+    padding-right: 5px;
 }
 audio{
     max-width: 960px;
