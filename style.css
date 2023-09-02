@@ -29,9 +29,6 @@ header {
 }
 
 .gallery {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
     margin-top: 5px;
     margin: 0 auto;
     margin-left: 0;
@@ -39,7 +36,7 @@ header {
 }
 
 .gallery img {
-    width: 370px;
+    width: 350px;
     height: 500px;
     margin: 0 auto;
 }
