@@ -30,6 +30,7 @@ header {
     max-width: 960px;
     margin: 0 auto;   
     padding: 20px;
+    padding-left:5px;
 }
 
 .gallery img {
